@@ -1,3 +1,3 @@
-# AOD
-code for “Improving Autoencoder-based Outlier Detection with Adjustable Probabilistic Reconstruction Error and Mean-shift Outlier Scoring” via below link:
+# MSS-PAE
+code for “MSS-PAE: Saving Autoencoder-based Outlier Detection from Unexpected Reconstruction” via below link:
 https://github.com/Ra1demmmm/Autoencoder-based-Outlier-Detection
